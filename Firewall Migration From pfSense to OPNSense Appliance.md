@@ -44,7 +44,7 @@ My original pfSense ran on an eBay-sourced office PC (Intel i5-2500 CPU, 4GB DDR
 
 ## Network Topology
 
-- 
+![Network Topology](https://github.com/gusterposey/portfolio/blob/main/network%20topology.png?raw=true "Network Topology")
 
 ## Lessons Learned
 This migration highlighted the benefits of dedicated appliances for efficiency and reliability. It also reinforced troubleshooting fundamentals, like verifying configs layer by layer. Power savings alone made it worthwhile, and the process prepped me for similar enterprise migrations.

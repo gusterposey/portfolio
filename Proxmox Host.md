@@ -56,3 +56,6 @@ Initially, I set up Proxmox solely for a TrueNAS VM using a single 4TB WD drive 
 This setup taught me the value of passthrough for performance (e.g., native RAIDZ1 vs. virtual disks) and the trade-offs of Windows VMs for compatibility. GPU acceleration transformed media/AI tasks, and tools like the arr suite + qBittorrent streamlined organization with built-in safety. Overall, it honed my virtualization and container skills for scalable homelabs.
 
 ## Visuals
+![Proxmox Dashboard](https://github.com/gusterposey/portfolio/blob/main/proxmox.png?raw=true "Proxmox Dashboard")
+![TrueNAS Hardware](https://github.com/gusterposey/portfolio/blob/main/truenas.png?raw=true "TrueNAS Hardware")
+![Windows 10 VM Hardware](https://github.com/gusterposey/portfolio/blob/main/windowsvm.png?raw=true "Windows 10 VM Hardware")

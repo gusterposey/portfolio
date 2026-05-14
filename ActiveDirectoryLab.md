@@ -36,7 +36,7 @@ This project gave me practical experience structuring Active Directory using Org
 ![USB Restrictions](https://github.com/gusterposey/portfolio/blob/main/USBrestrictions.png?raw=true "USB Restrictions")
 
 
-## What I Learned
+## Skills
 - How to structure Active Directory using Organizational Units
 - Creating and linking Group Policies to enforce security and standardization
 - Managing users, groups, and permissions in a domain environment

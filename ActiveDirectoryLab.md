@@ -1,6 +1,6 @@
 
 ## Overview
-Built and maintained a Windows Server Active Directory environment in a virtualized Hyper-V lab to demonstrate practical experience with enterprise identity management and policy enforcement.
+I Created and maintained a Windows Server Active Directory environment in a virtualized Hyper-V lab to gain practical, hands-on experience with enterprise identity and policy management.
 
 ## What I Built
 - Windows Server 2022 Domain Controller (`lab.local`)

@@ -20,8 +20,8 @@ Built and maintained a Windows Server Active Directory environment in a virtuali
 
 ## Screenshots
 
-![Active Directory Structure](https://github.com/gusterposey/portfolio/blob/main/Directoryy.png?raw=true "Active Directory Structure")
-![Group Policy Management](https://github.com/gusterposey/portfolio/blob/main/policies?raw=true "Group Policy Management")
+![Active Directory Structure](https://github.com/gusterposey/portfolio/blob/main/Directory.png?raw=true "Active Directory Structure")
+![Group Policy Management](https://github.com/gusterposey/portfolio/blob/main/policies.png?raw=true "Group Policy Management")
 ![Password Policies](https://github.com/gusterposey/portfolio/blob/main/passwords.png?raw=true "Password Policies")
 ![USB Restrictions](https://github.com/gusterposey/portfolio/blob/main/USBrestrictions.png?raw=true "USB Restrictions")
 ## What I Learned

@@ -27,7 +27,7 @@
 
 **Jira Service Management Board Overview**
 
-![Board Overview](ticketoverview.png)
+![Board Overview](ticketoverview.pg)
 
 **Custom Work Types / Request Types**
 
@@ -39,4 +39,4 @@
 
 **Sample Ticket - Password Reset**
 
-![Sample Ticket](sampleticket.png)
+![Sample Ticket](sampleticket.pg)

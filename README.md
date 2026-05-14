@@ -23,6 +23,8 @@ Email: mtgus.personal@gmail.com
   My homelab Proxmox machine, featuring PCIe passthrough and virtualization.
 - [Troubleshooting Examples](Troubleshooting%20Examples.md)  
   Some funny but telling examples of my Troubleshooting Experiences.
+- [Active Directory](ActiveDirectoryLab.md)
+  Creating an Active Directory Lab in a Windows Server VM.
 
 ## Why This Portfolio?
 These projects showcase my self-taught homelab experiments, demonstrating real-world problem-solving for IT infrastructure. Open to feedback or collaborations!

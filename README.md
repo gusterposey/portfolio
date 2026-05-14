@@ -16,14 +16,19 @@ Email: mtgus.personal@gmail.com
 
 ## Projects
 - [Firewall Migration](Firewall%20Migration.md)  
+
   Reduced power consumption by ~40W while optimizing gigabit network performance.
 ![Network Topology](https://github.com/gusterposey/portfolio/blob/main/network%20topology.png?raw=true "Network Topology")  
+
   Visual overview of my homelab network setup.
 - [Proxmox Host](Proxmox%20Host.md)  
+
   My homelab Proxmox machine, featuring PCIe passthrough and virtualization.
 - [Troubleshooting Examples](Troubleshooting%20Examples.md)  
+
   Some funny but telling examples of my Troubleshooting Experiences.
 - [Active Directory](ActiveDirectoryLab.md)
+
 
   Creating an Active Directory Lab in a Windows Server VM.
 

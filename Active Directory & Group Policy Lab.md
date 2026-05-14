@@ -21,13 +21,13 @@ Built and maintained a Windows Server Active Directory environment in a virtuali
 ## Screenshots
 
 ![Active Directory Structure](https://github.com/gusterposey/portfolio/blob/main/Directory.png?raw=true "Active Directory Structure")
-Active Directory Structure
+- Active Directory Structure
 ![Group Policy Management](https://github.com/gusterposey/portfolio/blob/main/policies.png?raw=true "Group Policy Management")
-Group Policy Management
+- Group Policy Management
 ![Password Policies](https://github.com/gusterposey/portfolio/blob/main/passwords.png?raw=true "Password Policies")
-Password Policies
+- Password Policies
 ![USB Restrictions](https://github.com/gusterposey/portfolio/blob/main/USBrestrictions.png?raw=true "USB Restrictions")
-USB Restrictions
+- USB Restrictions
 
 ## What I Learned
 - How to structure Active Directory using Organizational Units

@@ -31,7 +31,7 @@ Email: mtgus.personal@gmail.com
 
 
   Creating an Active Directory Lab in a Windows Server VM.
-  - [Jira Ticketing](Jira.md)
+- [Jira Ticketing](Jira.md)
 
 
   Using Jira ticketing system to learn about corporate ticketing workflows.

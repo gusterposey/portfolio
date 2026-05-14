@@ -18,6 +18,9 @@ Built and maintained a Windows Server Active Directory environment in a virtuali
 - Security policy enforcement
 - Virtualized Windows Server environment (Hyper-V)
 
+## What I Learned
+This project gave me practical experience structuring Active Directory using Organizational Units, creating and linking Group Policies, and enforcing security standards across multiple departments — skills directly applicable to real-world IT support and systems administration roles.
+
 ## Screenshots
 - Active Directory Structure
 
